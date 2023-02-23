@@ -11,6 +11,7 @@
 ## Learning materials
 1. [tsinghua_cloud] (https://cloud.tsinghua.edu.cn/d/ad22768345664924b202/?p=%2FFiles&mode=list)   
 2. [bioinfo_tutorial] (https://book.ncrnalab.org/teaching)   
+3. [syllabus] (https://app.yinxiang.com/fx/48420550-8f51-49a6-b404-0cc7e810ab4c)
 
 ## Mark Down   
 Learn its [grammar] (https://markdown.com.cn/).   
